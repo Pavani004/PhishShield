@@ -19,20 +19,23 @@ This project is a phishing awareness tool that allows users to register, log in,
 ### 1. Register Page
 This is the registration page where users can create a new account by providing their username, email, and password.
 
-![Register Page](path/to/your/register-screenshot.png)
+![Image](https://github.com/user-attachments/assets/c1d935bf-ce1a-4c45-8d60-df627f7788d6)
 
-### 2. Login Page
+
+### 2. Landing Page
 After registration, users can log in using their credentials to access the phishing URL checker.
 
-![Login Page](path/to/your/login-screenshot.png)
+![Image](https://github.com/user-attachments/assets/0cabc28e-8127-456f-b3e2-8da77bc617d1)
 
 ### 3. Results Page
 Once logged in, users can input a URL, and the results page will display whether the URL is suspicious or safe.
 
-![Results Page](path/to/your/results-screenshot.png)
+![Image](https://github.com/user-attachments/assets/374921e2-9ec0-47da-a43b-76716379bc59)
 
 ### 4. Database Structure
 The project uses a MySQL database to store user information. Below is the structure of the `users` table:
+
+![Image](https://github.com/user-attachments/assets/482af02a-5e77-4d6c-bd73-d39456ce0bea)
 
 | Column   | Data Type        | Description                          |
 |----------|------------------|--------------------------------------|
